@@ -50,6 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="BattleshipCustomClassDiagram.cd" />
+    <None Include="CodeMap1.dgml" />
+    <None Include="FullClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Battleship.GameController\Battleship.GameController.csproj">

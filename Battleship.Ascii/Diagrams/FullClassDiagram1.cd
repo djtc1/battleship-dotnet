@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Battleship.Ascii.Program" Collapsed="true">
+    <Position X="18.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAgAAAAAAAAAAAQAAgAAAAAQAAACIABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleship.GameController.Contracts.Position" Collapsed="true">
+    <Position X="17" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Contracts.Ship" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Battleship.GameController.GameController" Collapsed="true">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.CanBeNullAttribute" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.NotNullAttribute" Collapsed="true">
+    <Position X="15.25" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.StringFormatMethodAttribute" Collapsed="true">
+    <Position X="17" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.InvokerParameterNameAttribute" Collapsed="true">
+    <Position X="18.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.NotifyPropertyChangedInvocatorAttribute" Collapsed="true">
+    <Position X="13.5" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.ContractAnnotationAttribute" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.LocalizationRequiredAttribute" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.CannotApplyEqualityOperatorAttribute" Collapsed="true">
+    <Position X="18.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.BaseTypeRequiredAttribute" Collapsed="true">
+    <Position X="15.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.UsedImplicitlyAttribute" Collapsed="true">
+    <Position X="18.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.MeansImplicitUseAttribute" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.PublicAPIAttribute" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.InstantHandleAttribute" Collapsed="true">
+    <Position X="17" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.PureAttribute" Collapsed="true">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.PathReferenceAttribute" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcActionAttribute" Collapsed="true">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcAreaAttribute" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcControllerAttribute" Collapsed="true">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcMasterAttribute" Collapsed="true">
+    <Position X="18.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcModelTypeAttribute" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcPartialViewAttribute" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcSupressViewErrorAttribute" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcDisplayTemplateAttribute" Collapsed="true">
+    <Position X="15.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcEditorTemplateAttribute" Collapsed="true">
+    <Position X="17" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcTemplateAttribute" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcViewAttribute" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.AspMvcActionSelectorAttribute" Collapsed="true">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.HtmlElementAttributesAttribute" Collapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.HtmlAttributeValueAttribute" Collapsed="true">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Battleship.GameController.Annotations.RazorSectionAttribute" Collapsed="true">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Battleship.GameController.Contracts.Letters" Collapsed="true">
+    <Position X="13.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Battleship.GameController.Annotations.ImplicitUseKindFlags" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Battleship.GameController.Annotations.ImplicitUseTargetFlags" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
